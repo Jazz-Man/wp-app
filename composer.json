@@ -1,0 +1,15 @@
+{
+    "name": "jazzman/wp-app-config",
+    "type": "library",
+    "require": {
+        "jazzman/parameter-bag": "^1.0",
+        "jazzman/singleton-trait": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vasyl Sokolyk",
+            "email": "vsokolyk@gmail.com"
+        }
+    ]
+}
