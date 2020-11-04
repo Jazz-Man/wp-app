@@ -20,7 +20,7 @@
         ]
     },
     "require-dev": {
-        "roots/wordpress": "4.9"
+        "roots/wordpress": "5.5.3"
     },
     "extra": {
         "installer-paths": {
